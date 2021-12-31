@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 Hello world......!!!!!!!!!
 create buf and fixed.....!!!
+=======
+Hello world......!!!!
+fix the bug by bug2.....................
+>>>>>>> Stashed changes
